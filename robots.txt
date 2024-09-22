@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orsxea.github.io/sitemap.html.gz
+Sitemap: https://orsxea.github.io/app/sitemap.html.gz
+Sitemap: https://orsxea.github.io/assets/sitemap.html.gz
+Sitemap: https://orsxea.github.io/css/sitemap.html.gz
+Sitemap: https://orsxea.github.io/data/sitemap.html.gz
+Sitemap: https://orsxea.github.io/includes/sitemap.html.gz
+Sitemap: https://orsxea.github.io/item/sitemap.html.gz
+Sitemap: https://orsxea.github.io/src/sitemap.html.gz
